@@ -1,5 +1,9 @@
 # Microscopy Image Processing
 
+## Notes
+
+Thoughts, software recommendations, snippets, and other useful notes are located in `docs/`.
+
 ## Source code
 
 Functions in the `src/` directory are ready to use. Live Scripts in `scripts/` illustrate key concepts.

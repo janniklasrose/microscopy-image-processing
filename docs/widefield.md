@@ -21,6 +21,8 @@ The viewer also reports the resolution corresponding to the highest optical zoom
 
 [ndpitools](https://www.imnc.in2p3.fr/pagesperso/deroulers/software/ndpitools/) was published [here](https://doi.org/10.1186/1746-1596-8-92). It has command line binaries for scripted image extraction (with support for cropping and tiling), and also provides an ImageJ plug-in (see relevant section).
 
+An example of using `ndpisplit` (which extracts TIFF files at variable resolution from the NDPI file) can be found [in this Bash snippet](https://gitlab.com/janniklasrose/microscopy-image-processing/snippets/1995477).
+
 ## Scripting
 
 NDPI files are just [TIFF](https://en.wikipedia.org/wiki/TIFF) (Tagged Image File Format) with extra tags.
