@@ -4,6 +4,7 @@
 
 - [Mimics](https://materialise.com/mimics)
 - [itk-SNAP](http://www.itksnap.org)
+- [LAS X Core](https://www.leica-microsystems.com/products/microscope-software/p/leica-las-x-ls/) is free software provided by Leica. It can be used to view and post-process Leica confocal (and also widefield) microscopy data.
 - [ImageJ](https://imagej.net), for which there are a few plug-ins:
   - [3D_Viewer](https://imagej.net/3D_Viewer)
   - [3d-viewer](https://imagej.nih.gov/ij/plugins/3d-viewer/) (by NIH, potentially the same)
