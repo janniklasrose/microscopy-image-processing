@@ -8,7 +8,7 @@ The [NDPITools](https://www.imnc.in2p3.fr/pagesperso/deroulers/software/ndpitool
 
 For image registration, we use [ImageJ](https://imagej.net/). It is recommended to install [Fiji](https://imagej.net/software/fiji/) (_Fiji is just ImageJ_, with "batteries included").
 
-For image processing, we use [Imagemagick](https://imagemagick.org/). The scripts (`magick` and `convert`) have a lot of well-documented [command line options](https://imagemagick.org/script/command-line-options.php) to accomplish almost anything.
+For image processing, we use [ImageMagick](https://imagemagick.org/). The scripts (`magick` and `convert`) have a lot of well-documented [command line options](https://imagemagick.org/script/command-line-options.php) to accomplish almost anything.
 
 ## Automatic detection of the image subject
 
@@ -119,4 +119,4 @@ $height = "50%" # keep $height (%) of total
 $offset_w = "0.25" # offset by offset_w*total_width
 $offset_h = "0.23" # offset by offset_h*total_height
 ```
-The choice of this is very dependent on the image stack and are chosen for the specific files at hand.
+The choice of this is very dependent on the image stack and are chosen for the specific files at hand. A good option is to open one of the images in an external program and measure the region that is to be extracted.
